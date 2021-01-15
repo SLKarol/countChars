@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm install @stanislavkarol/countChars
+npm install @stanislavkarol/count-chars
 ```
 
 ## API
@@ -18,7 +18,7 @@ countChars(varString) => String
 ## Example
 
 ```js
-const countChars = require("reverse-countChars");
+const countChars = require("count-chars");
 
 const varString = "Тестовая строка";
 
