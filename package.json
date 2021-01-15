@@ -1,0 +1,25 @@
+{
+  "name": "countChars",
+  "version": "1.0.0",
+  "description": "Подсчёт количества символов в строке",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/prettier/bin-prettier.js . --write",
+    "prepublish": "npm run lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SLKarol/countChars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLKarol/countChars/issues"
+  },
+  "homepage": "https://github.com/SLKarol/countChars#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
