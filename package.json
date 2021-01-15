@@ -1,6 +1,6 @@
 {
   "name": "@stanislavkarol/count-chars",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Подсчёт количества символов в строке",
   "main": "index.js",
   "scripts": {

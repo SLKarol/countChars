@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm install @stanislavkarol/count-chars
+npm install @stanislavkarol/count-chars -S
 ```
 
 ## API
@@ -18,7 +18,7 @@ countChars(varString) => String
 ## Example
 
 ```js
-const countChars = require("count-chars");
+const countChars = require("@stanislavkarol/count-chars");
 
 const varString = "Тестовая строка";
 
