@@ -1,5 +1,5 @@
 {
-  "name": "@stanislavkarol/countChars",
+  "name": "@stanislavkarol/count-chars",
   "version": "1.0.0",
   "description": "Подсчёт количества символов в строке",
   "main": "index.js",
